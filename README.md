@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I am an aspiring AI Engineer with a strong foundation in Python, OpenCV, prompt engineering, and AI automation. I am passionate about leveraging artificial intelligence to build intelligent systems that improve efficiency, automate workflows, and solve real-world problems.<br>Currently, I am pursuing an internship as an AI Automation Engineer at Nest Space Modular Factory, where I am gaining hands-on experience in developing AI-driven solutions, optimizing automation processes, and working with modern AI tools and technologies. This experience is helping me strengthen both my technical expertise and practical understanding of implementing AI in industry environments.<br>I am highly motivated to build a full-time career in AI engineering, with a focus on becoming an expert in AI tools, intelligent automation, and data-driven system development. I am continuously learning and exploring new advancements in artificial intelligence to create impactful and scalable solutions.
 
 
